@@ -1,3 +1,3 @@
 # Heatpump-control
 Project to control the family heat pump remotely
-To annoy people
+Reason, to efficiently control the machine over winter
